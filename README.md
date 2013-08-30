@@ -9,7 +9,7 @@ Install
 -------
     $ cd octopress
     $ git clone git://github.com/cherimarie/cleanpress_custom.git .themes/cleanpress_custom
-    $ rake install['cleanpress']
+    $ rake install['cleanpress_custom']
     $ rake generate -->
 
 

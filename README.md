@@ -8,7 +8,7 @@ CleanPress is an elegant, clean & white minimal and responsive theme for [Octopr
 Install
 -------
     $ cd octopress
-    $ git clone git://github.com/macjasp/cleanpress.git .themes/cleanpress
+    $ git clone git://github.com/cherimarie/cleanpress_custom.git .themes/cleanpress_custom
     $ rake install['cleanpress']
     $ rake generate -->
 
